@@ -1,4 +1,7 @@
-# Windows11UpdateRequirementsBypasser
+# WARNING
+Microsoft seems to have patched this, so this may no longer work unfortunately.
+
+## Windows11UpdateRequirementsBypasser
 Simple app that replaces appraiserres.dll with older one to bypass Windows 11 minimum hardware requirements
 
 # HOW TO USE:
@@ -14,4 +17,3 @@ Step 4: check for updates
 Step 5: once the downloading is like 4%/5% run the program
 
 Step 6: if it works, then good, otherwise press fix issues and replace file again by starting the program
-
